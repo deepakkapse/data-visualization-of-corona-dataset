@@ -1,5 +1,5 @@
 # data-visualization-of-corona-dataset
-![visulization](picture2.png)
+
 It plots the various covid 19 affected regions all over the world 
 overview:<br>
 Unlike the conventional way of getting the data in this project data has been web scraped using python where the data obtained is stored in the .csv format<br>
@@ -13,4 +13,6 @@ load the .csv file into JUPITER NoteBook and proceed<br>
 <b>IDE:JUPYTER NOTEBOOK<br>
 <b>Modules:numpy,pandas,os
   
+<b>Images<br>
+  ![visulization](picture2.png)
 
