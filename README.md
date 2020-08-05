@@ -2,7 +2,7 @@
 
 It plots the various covid 19 affected regions all over the world 
 overview:<br>
-Unlike the conventional way of getting the data in this project data has been web scraped using python where the data obtained is stored in the .csv format<br>
+Unlike the conventional way of getting the data in this project data has been web scraped using python where the data obtained is stored in the .csv format.<br>
 <b>tools used:
   IDE:SublimeText<br>
   Modules:BeautifulSoup,Requests,csv</b><br>
